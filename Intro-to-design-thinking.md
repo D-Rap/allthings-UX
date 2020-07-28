@@ -62,7 +62,7 @@ Asking customers what they need is not an accurate way to reflect on what need t
  <li>Result: Proven user bahviour</li>
    </ul>
    </ol>
- 
+ </details>
  
 ### What to consider during a data gathering process
 1. Make participants feel comfortable
