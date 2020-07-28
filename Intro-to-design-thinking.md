@@ -5,9 +5,9 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 ## Introduction
 
 <details>
- <summary><h3> Rolls in a UX team </h3></summary>
-+ User Researcher
- <ul>
+ <summary> Rolls in a UX team </summary>#
+ <ol>
+<li> User Researcher </li> 
 <li>Information Architect</li>
 <li>Interaction Designer</li>
 <li>Motion Designer</li>
