@@ -3,7 +3,10 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 # Dicovery
 
 ## Introduction
-### Rolls in a UX team
+
+<details>
+### <summary>Rolls in a UX team</summary>
+<br>
 1. User Researcher
 2. Information Architect
 3. Interaction Designer
@@ -14,6 +17,7 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 8. Localisation
 9. UI Text Writer
 10. Product Manager
+</details>
 
 ### Needfinding - Finding exactly what the target user needs
 
