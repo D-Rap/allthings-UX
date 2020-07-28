@@ -6,17 +6,17 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 
 <details>
 ### <summary>Rolls in a UX team</summary>
-<br>
-1. User Researcher
-2. Information Architect
-3. Interaction Designer
-4. Motion Designer
-5. Visual Designer
-6. Front End Developer/Prototyper
-7. Content Strategist
-8. Localisation
-9. UI Text Writer
-10. Product Manager
+<ul>
+<li> User Researcher </li>
+<li>Information Architect</li>
+<li>Interaction Designer</li>
+<li>Motion Designer</li>
+<li>Visual Designer</li>
+<li>Front End Developer/Prototyper</li>
+<li>Content Strategist</li>
+<li>Localisation</li>
+<li>UI Text Writer</li>
+<li>Product Manager</li>
 </details>
 
 ### Needfinding - Finding exactly what the target user needs
