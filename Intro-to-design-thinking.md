@@ -5,7 +5,7 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 ## Introduction
 
 <details>
- <summary> Rolls in a UX team </summary>#
+ <summary> Rolls in a UX team </summary>
  <ol>
 <li> User Researcher </li> 
 <li>Information Architect</li>
@@ -24,27 +24,44 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 ### BXT - Business viability + eXperiance desirability + Technical feasibility
 
 ## Investigaing Use Needs
-### Qualitative Research Techniques
+<details>
+ <summary>Qualitative Research Techniques</summary>
 Asking customers what they need is not an accurate way to reflect on what need to be done as people cannot accurately recounting their personal experience. Their experience is also depending on their frame of reference. 
-1. User Interviews 
-  * Result: user's attitude
-2. Contextual Inquiry
-  * Best used in the discovery phase
-    * Important to document of he distractions on the user's environment as they influnce the design solution
-    * Benefit from higher number of participants
-  * Result: Behavioral, Social, environmental and attitudinal data
-3. Stakeholder Interview
-  * To establish the needs and beliefs of your business partners
-  * Business requirement - performance against specific business metrics
-  * Result: Collect business requirements, key performance indicators/attributes of a succesful design
-4. Customer Interview
- * Result: Collect metrics for success as well as beliefs about success
-5. Focus Group
- * Common for branding and visual finishing phase of a project
- * Result: Beliefs, attitudes and subjective preferences, however, at risk of collecting no useful data without expert moderation
-6. Usability Testing
- * Run a user interactive design experience against other prototype (e.g. previous version, competitor's version) is a very accurate was to observe user's habits and practises
- * Result: Proven user bahviour
+<ol> 
+ <li> User Interviews </li>
+  <ul>
+  <li> Result: user's attitude
+  </ul>
+<li>  Contextual Inquiry </li>
+  <ul>
+  <li> Best used in the discovery phase</li>
+    <ul>
+    <li>Important to document of he distractions on the user's environment as they influnce the design solution</li>
+    <li> Benefit from higher number of participants</li>
+    </ul>
+  <li>Result: Behavioral, Social, environmental and attitudinal data</li>
+   </ul>
+<li>  Stakeholder Interview </li>
+  <ul>
+  <li>To establish the needs and beliefs of your business partners</li>
+  <li>Business requirement - performance against specific business metrics</li>
+  <li> Result: Collect business requirements, key performance indicators/attributes of a succesful design</li>
+  </ul>
+<li>  Customer Interview </li>
+  <ul>
+ <li>Result: Collect metrics for success as well as beliefs about success</li>
+  </ul>
+<li>  Focus Group </li>
+  <ul>
+ <li>Common for branding and visual finishing phase of a project</li>
+ <li>Result: Beliefs, attitudes and subjective preferences, however, at risk of collecting no useful data without expert moderation</li>
+  </ul>
+<li>  Usability Testing </li>
+  <ul>
+ <li>Run a user interactive design experience against other prototype (e.g. previous version, competitor's version) is a very accurate was to observe user's habits and practises</li>
+ <li>Result: Proven user bahviour</li>
+   </ul>
+   </ol>
  
  
 ### What to consider during a data gathering process
