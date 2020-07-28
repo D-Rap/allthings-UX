@@ -1,6 +1,6 @@
 This is a not the the edx course, Introduction to design thinking. The course can be accessed [here](https://courses.edx.org/courses/course-v1:Microsoft+DEV241x+3T2019/course/)
 
-###Rolls in a UX team
+### Rolls in a UX team
 1. User Researcher
 2. Information Architect
 3. Interaction Designer
@@ -12,7 +12,7 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 9. UI Text Writer
 10. Product Manager
 
-###Needfinding - Finding exactly what the target user needs
+### Needfinding - Finding exactly what the target user needs
 
-###BXT - Business viability + eXperiance desirability + Technical feasibility
+### BXT - Business viability + eXperiance desirability + Technical feasibility
 
