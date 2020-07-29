@@ -6,6 +6,7 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 
 <details>
  <summary>Rolls in a UX team </summary>
+ <br>
  <ol>
 <li> User Researcher </li> 
 <li>Information Architect</li>
@@ -26,6 +27,7 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 ## Investigaing Use Needs
 <details>
  <summary>Qualitative Research Techniques</summary>
+ <br>
 Asking customers what they need is not an accurate way to reflect on what need to be done as people cannot accurately recounting their personal experience. Their experience is also depending on their frame of reference. 
 <ol> 
  <li> User Interviews </li>
@@ -66,6 +68,7 @@ Asking customers what they need is not an accurate way to reflect on what need t
  
 <details>
  <summary>What to consider during a data gathering process </summary>
+ <br>
  <ol>
   <li> Make participants feel comfortable </li>
   <ol>
@@ -123,6 +126,7 @@ Asking customers what they need is not an accurate way to reflect on what need t
 
 <details>
  <summary>Quantitative Research Techniques</summary>
+ <br>
 Gather any quantitative data that can measure the performance of an existing design or reaction to a fixed stimulus 
 <ol> 
  <li> Customer Support issues tracking </li>
