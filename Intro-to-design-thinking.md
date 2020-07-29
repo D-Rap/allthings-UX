@@ -1,4 +1,4 @@
-This is a not the the edx course, Introduction to design thinking. The course can be accessed [here](https://courses.edx.org/courses/course-v1:Microsoft+DEV241x+3T2019/course/)
+This is a note from the the edx course Introduction to design thinking. The course can be accessed [here](https://courses.edx.org/courses/course-v1:Microsoft+DEV241x+3T2019/course/)
 
 # Dicovery
 
