@@ -5,7 +5,7 @@ This is a not the the edx course, Introduction to design thinking. The course ca
 ## Introduction
 
 <details>
- <summary> Rolls in a UX team </summary>
+ <summary>Rolls in a UX team </summary>
  <ol>
 <li> User Researcher </li> 
 <li>Information Architect</li>
@@ -65,7 +65,7 @@ Asking customers what they need is not an accurate way to reflect on what need t
  </details>
  
 <details>
- <summary> What to consider during a data gathering process </summary>
+ <summary>What to consider during a data gathering process </summary>
  <ol>
   <li> Make participants feel comfortable </li>
   <ol>
@@ -120,3 +120,27 @@ Asking customers what they need is not an accurate way to reflect on what need t
   </ol>
 </ol>
 </details>
+
+<details>
+ <summary>Quantitative Research Techniques</summary>
+Gather any quantitative data that can measure the performance of an existing design or reaction to a fixed stimulus 
+<ol> 
+ <li> Customer Support issues tracking </li>
+  <ul>
+  <li> Support issues arising from user confusion are issues which user experience design can prevent </li>
+  </ul>
+<li>  Instrumentation </li>
+  <ul>
+  <li> Most modern services and applications have some way of tracking what workflows the user is using. </li>
+    <ul>
+    <li>This data can be aggregated into Sankey diagrams or other visuals to indicate how users are using the software</li>
+    </ul>
+<li>  Surveys </li>
+   <ul>
+    <li>Surveys will almost never teach you something new about user intent; instead they are excellent tools for confirming or refuting a hypothesis</li>
+   </ul>
+</details>
+
+Investigating Existing Solutions - You can evaluate everything from business model, target markets, features provided, layouts, to interaction styles. The more you are informed about previous success and failures in solving the problem you're working to solve, the more likely you are to make a solution that exceeds what's gone before.
+ 
+ 
