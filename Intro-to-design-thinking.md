@@ -141,8 +141,9 @@ Gather any quantitative data that can measure the performance of an existing des
    </ul>
 </details>
 
-<detail>
+<details>
  <summary>Investigating Existing Solutions</summary>
+ <br>
  You can evaluate everything from business model, target markets, features provided, layouts, to interaction styles. The more you are informed about previous success and failures in solving the problem you're working to solve, the more likely you are to make a solution that exceeds what's gone before.
- </detail>
+ </details>
  
