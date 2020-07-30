@@ -151,3 +151,21 @@ Gather any quantitative data that can measure the performance of an existing des
  You can evaluate everything from business model, target markets, features provided, layouts, to interaction styles. The more you are informed about previous success and failures in solving the problem you're working to solve, the more likely you are to make a solution that exceeds what's gone before.
  </details>
  
+  ### Unpacking your Research
+<details>
+ <summary>Affinity Diagrams</summary>
+ <br>
+ Affinity diagram helps a group identify trends and gaps from a large qualitative data set.
+ <br>
+ Things to consier
+ <ul>
+  <li> Clarify which note was from which participant</li>
+  <li> Reach a group a greement about the note if the research was conduct by a group</li>
+  <li> The note taken from the research should either be a direct quote from the participant or an insight gained by the research team</li>
+  <li> Do not add design ideas to the affinity diagram </li>
+  <li> Note about progress should be in a sequence diagram not affinility diagram</li>
+  <li> A successful affinity diagramming session will include stakeholders and other team members after the initial research was conducted </li>
+  <li> 
+ </ul>
+ </details>
+
