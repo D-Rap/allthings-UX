@@ -165,7 +165,12 @@ Gather any quantitative data that can measure the performance of an existing des
   <li> Do not add design ideas to the affinity diagram </li>
   <li> Note about progress should be in a sequence diagram not affinility diagram</li>
   <li> A successful affinity diagramming session will include stakeholders and other team members after the initial research was conducted </li>
-  <li> 
+  <li> Once the notes are gathered, distribute them among the team member and sort them into groups base on the insights yielded from the notes. (Do this in silent) If any groups seem redundant, move the notes into groups that are discrete.</li>
+  <li> If a group contains insight from only one user, consider moving those notes into different headings.</li>
+  <li> If a group contains less than 3 notes, either conduct more research, find other supporting group or take it as a weak insight</li>
+  <li> If a group contains more than a dozen notes, see if it can be broken down further</li>
+  <li> The digram is done when every participants feel a note needs not to be moved again</li>
+  <li> In large affinity diagrams it may be worth while to create a level of descriptive grouping above the headings you just created</li>
  </ul>
  </details>
 
