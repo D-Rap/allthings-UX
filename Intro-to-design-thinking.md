@@ -151,7 +151,7 @@ Gather any quantitative data that can measure the performance of an existing des
  You can evaluate everything from business model, target markets, features provided, layouts, to interaction styles. The more you are informed about previous success and failures in solving the problem you're working to solve, the more likely you are to make a solution that exceeds what's gone before.
  </details>
  
-  ### Unpacking your Research
+  ## Unpacking your Research
 <details>
  <summary>Affinity Diagrams</summary>
  <br>
@@ -182,4 +182,11 @@ Gather any quantitative data that can measure the performance of an existing des
   <li> It is important to call out the breakdowns. What stop user from continuing the workflow </li>
  </ul>
  </details>
-
+ 
+ <details>
+ <summary> Charts </summary>
+ <ul>
+  <li> Charts allow us to convey significant amounts of data in a compact representation </li>
+  <li> Very useful when reporting on quantitative information</li>
+ </ul>
+</details>
