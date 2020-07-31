@@ -158,7 +158,7 @@ Gather any quantitative data that can measure the performance of an existing des
  Affinity diagram helps a group identify trends and gaps from a large qualitative data set.
  <br>
  Things to consier
- <ul>
+ <ol>
   <li> Clarify which note was from which participant</li>
   <li> Reach a group a greement about the note if the research was conduct by a group</li>
   <li> The note taken from the research should either be a direct quote from the participant or an insight gained by the research team</li>
@@ -171,6 +171,15 @@ Gather any quantitative data that can measure the performance of an existing des
   <li> If a group contains more than a dozen notes, see if it can be broken down further</li>
   <li> The digram is done when every participants feel a note needs not to be moved again</li>
   <li> In large affinity diagrams it may be worth while to create a level of descriptive grouping above the headings you just created</li>
+ </ol>
+ </details>
+ 
+ <details>
+ <summary> Sequence Diagrams </summary>
+ <ul>
+  <li> A step-by-step record of the way multiple users interact with an information system</li>
+  <li> They should show trigger conditions, user intent, and every step the user took to fulfill teir goall </li>
+  <li> It is important to call out the breakdowns. What stop user from continuing the workflow </li>
  </ul>
  </details>
 
