@@ -198,3 +198,47 @@ Gather any quantitative data that can measure the performance of an existing des
   <li>These visualizations will lead to insights in ways organizations can be over communicating, under-communicating, and sometimes giving customers contradictory information</li>
   </ul>
  </details>
+ 
+ <details>
+ <summaryPersonas</summary>
+ <ul>
+  <li>Craft a portrait of a user based on marketing research details</li>
+  <li>The problem with personas is that they can be an image built up by the disigner and does not accurately represent a real user</li>
+ </ul>
+ </details>
+ 
+ <details>
+ <summary>Market Segments</summary>
+ <ul>
+  <li>A market segment is a group of people or organizations that share one or more characteristics, causing them to have similar product or service needs</li>
+  </ul>
+ </details>
+ 
+  <details>
+ <summary>Behavioral Segments</summary>
+ <ul>
+  <li>Grouping users by commonality of how the user behaves</li>
+  </ul>
+ </details>
+ 
+  <details>
+ <summary>Universal Tips</summary>
+ <br>
+ Regardless of which user modelling approach you take, user modeling needs to be a part of a software design process. The successful user modeling approach will have the following attributes
+ <ol>
+  <li>It will help an engineering team empathize with another human</li>
+  <li>It will provide sufficient context to avoid context mismatch problems like the 1971 Soyuz re-entry capsule</li>
+  <li>It will provide insight into the attitudes and behaviors of the target users</li>
+  <li>It will prove useful in making design decisions by its ability to represent an in-elastic user of the system. Ideally it has enough muscle to win a disagreement with the highest paid person's opinion</li>
+  <li>It can be used to recruit for usability research</li>
+  <li>It is kept alive through the engineering process to ensure the product is built with a focus on the user's point of view</li>
+  </ol>
+ </details>
+ 
+ <details>
+ <summary>Generating Insights</summary>
+ <ul>
+  <li></li>
+  <li></li>
+ </ul>
+ </details>
