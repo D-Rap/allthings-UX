@@ -175,7 +175,7 @@ Gather any quantitative data that can measure the performance of an existing des
  </details>
  
  <details>
- <summary> Sequence Diagrams </summary>
+ <summary>Sequence Diagrams </summary>
  <ul>
   <li> A step-by-step record of the way multiple users interact with an information system</li>
   <li> They should show trigger conditions, user intent, and every step the user took to fulfill teir goall </li>
@@ -184,9 +184,17 @@ Gather any quantitative data that can measure the performance of an existing des
  </details>
  
  <details>
- <summary> Charts </summary>
+ <summary>Charts</summary>
  <ul>
   <li> Charts allow us to convey significant amounts of data in a compact representation </li>
   <li> Very useful when reporting on quantitative information</li>
  </ul>
 </details>
+
+<details>
+ <summary>Customer Journey Maps</summary>
+ <ul>
+  <li>Map the customer's journey at every response points, sometimes referred to as "moments of truth"</li>
+  <li>These visualizations will lead to insights in ways organizations can be over communicating, under-communicating, and sometimes giving customers contradictory information</li>
+  </ul>
+ </details>
