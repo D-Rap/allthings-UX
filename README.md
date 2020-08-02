@@ -4,8 +4,11 @@
 
 ### Learning
 [Daily UI Challenges](https://www.dailyui.co/)
+
 [Freecodecamp](https://www.freecodecamp.org/learn/)
+
 [awesome UX from Github](https://github.com/netoguimaraes/awesome-ux)
+
 [awesome UI from Github](https://github.com/kevindeasis/awesome-ui)
 
 ### Design Ideas
