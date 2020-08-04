@@ -283,10 +283,42 @@ Gather any quantitative data that can measure the performance of an existing des
  
  <details>
  <summary>Use Cases</summary>
- <br>
- a specific situation in which a product or service could potentially be used.
- <br>
-Complete use cases include a title, a primary actor, a goal in context, a scope, a level, a list of stakeholders and interests, a precondition, minimal guarantees, success guarantees, a trigger, main success scenario, extensions, technology and data variations.
- <br>
-Engineering efforts based on use cases alone can produce disconnected interactions which didn't consider user goals or context in completing a task.
+<ul>
+ <li>A specific situation in which a product or service could potentially be used</li>
+<li>Complete use cases include a title, a primary actor, a goal in context, a scope, a level, a list of stakeholders and interests, a precondition, minimal guarantees, success guarantees, a trigger, main success scenario, extensions, technology and data variations</li>
+<li>Engineering efforts based on use cases alone can produce disconnected interactions which didn't consider user goals or context in completing a task</li>
+</ul>
  </details>
+ 
+ ## Prototype
+ ### Brainstorming
+ <details>
+ <summary>Predict Tunnel Vision</summary>
+ <br>
+ When a design team is attempting to create a solution to a problem, it is of utmost importance that the field of possible solutions is broad. At this stage of the design effort, we need to force ourselves to generate as many solutions as the time allows. From that field of ideas, a synthesis of the best aspects of many ideas might form our hypotheses about the solution we'll eventually build. Our minds are used to optimizing, and we're generally more comfortable building on things we already know. The difficulty with optimizing on what you already know is that you might become blind to an alternative that performs much better.
+ </details>
+ 
+ <details>
+ <summary>Brainstorming Rules</summary>
+ <ol>
+  <li>Common understanding of the problem space you're trying to solve. Focus the session on brainstorming the <magic happens> portion of one scenario, or methods of achieving one experience outcome.</li>
+  <li>Go for quantity. Moving quickly suppresses the tendency to exercise judgement and control. This prohibits vertical thinking from taking over. Setting a goal of coming up with ten ideas in a ten minutes will help make this shift.</li>
+  <li>Defer judgement. Judgement is vertical thinking. To engage our lateral thinking capability, we give the team permission to not judge any idea during the brainstorming session.</li>
+  <li>Build on the ideas of others ("yes, and…" instead of "no, but…"). Listen to and build on the ideas of others. The randomizing input of your teammates can help spur new ways of solving a problem. Don't criticize any idea at this point, since that has the effect of shutting down the creative/lateral thinking pathways which may hint at new solutions.</li>
+  <li>Encourage wild ideas. Even if an idea seems nonsensical, accept the idea as a foundation for the next idea you generate. Even jokes can help engage the lateral thinking part of our brain. The idea that comes after the wild one might be an interesting way of solving the problem.</li>
+ </ol>
+ </details>
+ 
+ <details>
+ <summary>Lateral Thinking</summary>
+ <br>
+ When a team is stuck for new ideas, there are several techniques which might prove useful. These techniques are messy. They are the least efficient, most chaotic way of solving a problem, however in the next phase of design these inefficient chaotic practices might generate foundational ideas for new approaches to solving any problem.
+ <ul>
+  <li>Look at another domain</li>
+  <li>Use analogy</li>
+  <li>Reversal</li>
+  <li>Random input</li>
+  <li>Fresh Brains</li>
+ </ul>
+ </details>
+ 
