@@ -238,7 +238,55 @@ Gather any quantitative data that can measure the performance of an existing des
  <details>
  <summary>Generating Insights</summary>
  <ul>
-  <li></li>
-  <li></li>
+  <li>Once a personas is detailed, it is important to outline what success would look like instead of how to get there</li>
  </ul>
+ </details>
+ 
+ <details>
+ <summary>Scenarios</summary>
+ <br>
+ Valid scenarios have the following seven attributes
+ <ol>
+  <li>Story. Good scenarios utilise storytelling techniques in order to engender empathy for the user in the reader. They have a beginning, middle, and end. There is a protagonist. There is a trigger event which generates tension, and there is a resolution. They are prose.</li>
+  <li>Personal Details. Good scenarios bring forward insights into the user's context and goals from your primary research.</li>
+  <li>Implementation-free. Good scenarios do not prescribe the solution to the challenge the user has; solution design is left for a later phase. The purpose of the scenario is to encapsulate the research you've done into a short paragraph which describes the user, the user's goals, the user's context, and a specific challenge or unmet need the user is experiencing, then describes the desired outcome in user centered terms. </li>
+  <li>Customer's Story: The scenario is a story about the customer, not about the product you're going to build.</li>
+  <li>Insight. A good scenario will give the reader insight into the customer's needs, context, and goals.</li>
+  <li>Emotions and Environment. A good scenario includes emotions and environment; both in the description of the current state and the description of the desired outcome.</li>
+  <li>Research. Good scenarios are grounded in all the research that has come before this phase. Good scenarios are not based on assumptions, hearsay, or biased viewpoints.</li>
+ </ol>
+ Suggested template for creating scenarios
+ <ul>
+  <li>One Line Headline - Useful to distinguish this scenario from other scenarios when you're looking at a list of them. This phrase will be used a lot, so it pays to make it catchy and memorable.</li>
+  <li>Introduction - Who is the user? What motivates them? This should provide sufficient data to recruit participants for usability studies later. If you've defined the user as a persona, referring to the persona name is sufficient here as long as the detail is in the persona. In addition, the user's current emotional state can be useful to include here.</li>
+  <li>Situation - What is the specific, real world situation where there is a need or an opportunity? Call out the key constraints of what a good solution would need to address.</li>
+  <li><magic happens> - This phrase will help you stay out of the details of what you're going to build. Adding in implementation details at this phase will prevent you from finding the best solution during the design process.</li>
+  <li>Outcomes - What specific outcomes has the user accomplished? What are the key metrics for success? You can use these metrics in usability studies to determine if your solution is working or not.</li>
+ </ul>
+</details>
+
+<details>
+ <summary>Experience Outcomes</summary>
+ Three components of the Experiance outcomes
+ <ol>
+  <li>Direction. How do you want to move the measure?</li>
+  <li>Unit of Measure. How do we determine when the solution is good enough to ship?</li>
+  <li>Outcome. Something the product must do well to be successful; supported by evidence.</li>
+ </ol>
+ </details>
+ 
+ <details>
+ <summary>User Stories</summary>
+ <br>
+ The general construct of a user story is: As a <role>, I want <goal/task>, so that <benefit>. Mature practitioners also include a definition of done so that the engineering team knows when the solution meets the acceptance criteria.
+ </details>
+ 
+ <details>
+ <summary>Use Cases</summary>
+ <br>
+ a specific situation in which a product or service could potentially be used.
+ <br>
+Complete use cases include a title, a primary actor, a goal in context, a scope, a level, a list of stakeholders and interests, a precondition, minimal guarantees, success guarantees, a trigger, main success scenario, extensions, technology and data variations.
+ <br>
+Engineering efforts based on use cases alone can produce disconnected interactions which didn't consider user goals or context in completing a task.
  </details>
