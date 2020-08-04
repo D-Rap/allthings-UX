@@ -1,4 +1,5 @@
-# UX and advanced Topics ### (Microsoft:DEV318x)
+# UX and advanced Topics
+### (Microsoft:DEV318x)
 [Access the course here](https://courses.edx.org/courses/course-v1:Microsoft+DEV318x+1T2018/course/)
 
 # Course Outline
