@@ -40,5 +40,16 @@
 * [Visual Hierarchy and how the eye accepts information](#chapter-4.7)
 * [UI Design Trends and Best Practices](#chapter-4.8)
 
+## Objectives
+1. Understand the pros and cons of user-centered design
+2. Organise a multi-step plan for completing a design project
+3. Understand some of the core principles that guide how and why we design
+4. Understand core terminology related to UX design and design thinking
+5. Illustrate the design flow that takes user input and transforms it into an actionable interface design
+6. Understand some commonly used visual affordances.
+7. Include practical experience creating UX design artifacts in their CV
+8. Lead an iterative user centered design process to create a prototype which will contain few usability defects
+9. Understand how to organise user needs into easily-understood “tasks”
+10. Combine multiple tasks into a fully fledged interface mockup
 
 
