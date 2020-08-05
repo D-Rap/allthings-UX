@@ -3,12 +3,13 @@
 [Access the course here](https://courses.edx.org/courses/course-v1:Microsoft+DEV318x+1T2018/course/)
 
 # Course Outline
-[Module 1 - Design](#chapter-1)
-* [Framing the opportunity](#chapter-1.1)
-* [Observation](#chapter-1.2)
-* [Organizing the data](#chapter-1.3)
-* [Task modelling](#chapter-1.4)
-* [Formulating measurable design goals](#chapter-1.5)
+[Module 1 - Understanding USer Needs](#chapter-1)
+* [Inerview](#chapter-1.1)
+* [Organising Data](#chapter-1.2)
+* [Metrics and Telemetry](#chapter-1.3)
+* [Other Inputs](#chapter-1.4)
+* [BXT Model](#chapter-1.5)
+* [Measurable Design Goals](#chapter-1.6)
 
 [Module 2 - Exploring solutions](#chapter-2)
 * [Structured brainstorming techniques](#chapter-2.1)
@@ -51,5 +52,7 @@
 8. Lead an iterative user centered design process to create a prototype which will contain few usability defects
 9. Understand how to organise user needs into easily-understood “tasks”
 10. Combine multiple tasks into a fully fledged interface mockup
+
+# Understanding User Needs <a name = "chapter-1".</a>
 
 
