@@ -74,7 +74,7 @@ Interview is a useful way of gathering user inout but the data acquired is not a
     
 ## Other Inputs <a name = "chapter-1.4"></a>
     If the product being design is a replacement or an upgrade of an existing product, collect data on that product; interview its users to see what they love and hate about the experience of using it. Ask them what they wish it did but it doesn’t. You can also evaluate those competing products yourself, and form a matrix of functionality to compare what those future competitors offer.
-## BXT model and alternatives <a name = "chapter-1.5></a>
+## BXT model and alternatives <a name = "chapter-1.5"></a>
   Once the experience of users was looked at, now it's time to take a look at the business side of it. Is there a viable market? Is there a business model that will allow your company to take a share of this market? Finally, is the technology up to the task of delivering the user experience and business model? Business (B), experience (X), and technology (T) are all essential for a commercial product.
   
 ## Measurable Design Goals <a name = "chapter-1.6"></a>
@@ -88,6 +88,9 @@ Interview is a useful way of gathering user inout but the data acquired is not a
   ### Emotions
   Include emotions in your description of the before and after state of your user base.
   
+  
+  # Exploring Solutions <a name = "chapter-2"></a>
+    ## Brainstorming Techniques <a name = "chapter-2.2"></a>
   
   
     
