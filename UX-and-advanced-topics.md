@@ -54,5 +54,42 @@
 10. Combine multiple tasks into a fully fledged interface mockup
 
 # Understanding User Needs <a name = "chapter-1"></a>
+## Interviews <a name = "chapter-1.1"></a>
+Interview is a useful way of gathering user inout but the data acquired is not as significant as those from the observation sessions because 1. the questions asked in the interview are biased by the assuptions of the quiestioner and 2. the answers are based on the recall of the participants and this is not accurate. It is useful for documenting participants/ beliefs.
+
+## Organising Data <a name = "chapter-1.2"><'a>
+  ### Affinity Diagrams 
+    Good for structuring unstructured data collected and spot a pattern.
+  ### Word clouds 
+    USe the word cloud generator to see a pattern.
+  ### Task Modelling
+    Model user's journey along the way and look out for loops and breakdowns to identify ways of making a process more efficient. Customer Journey Maps are commonly used as a way to outline user's initial intent through acieving that intent. This method focuses more on the communication between the company and their users.
+  ### Personas or Market Segments
+      Isolate different observations into cluster and give each clister a personas can help the team focus on coding for a specific group of users instead of making something for everybody.
+      Market segments can identify the size and fitness of a specific market target. This is provable unlike personas. This, however, does not tell you about user's behaviours or beliefs.
+      * Do NOT make something for everybody. Save the segments of other possible porsonas to make a subsequent product for*
+                                              
+## Metrics/Telemetry <a name = "chapter-1.3"></a>
+    If you are creating a replacement for an existing application or service, analyse the data about user's interactions for any potential bottlenecks or surprising abandonment. This can be done with the help of Sankey Diagrams.
+    
+## Other Inputs <a name = "chapter-1.4"></a>
+    If the product being design is a replacement or an upgrade of an existing product, collect data on that product; interview its users to see what they love and hate about the experience of using it. Ask them what they wish it did but it doesn’t. You can also evaluate those competing products yourself, and form a matrix of functionality to compare what those future competitors offer.
+## BXT model and alternatives <a name = "chapter-1.5></a>
+  Once the experience of users was looked at, now it's time to take a look at the business side of it. Is there a viable market? Is there a business model that will allow your company to take a share of this market? Finally, is the technology up to the task of delivering the user experience and business model? Business (B), experience (X), and technology (T) are all essential for a commercial product.
+  
+## Measurable Design Goals <a name = "chapter-1.6"></a>
+  ### Formulating measurable design goals
+  A good design goal is
+  + Based in user research and market research data
+  + Realistically achievable
+  + Measurable in terms of user behaviour or atitude
+  ### Scenarios/Jobs to Be Done
+  Use scenarios to form a story and Jobs to Be Done is based on a more terse statement of user intent, environment and goals. Jobs to Be Done put a greater emphasis on a measurable outcome. Do not include any implementation at this phase.
+  ### Emotions
+  Include emotions in your description of the before and after state of your user base.
+  
+  
+  
+    
 
 
