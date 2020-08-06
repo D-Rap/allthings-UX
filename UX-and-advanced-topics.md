@@ -90,7 +90,42 @@ Interview is a useful way of gathering user inout but the data acquired is not a
   
   
  # Exploring Solutions <a name = "chapter-2"></a>
-   ## Brainstorming Techniques <a name = "chapter-2.2"></a>
+   ## Brainstorming Techniques <a name = "chapter-2.1"></a>
+   ### HMWs
+   How Might We statements
+   Inclusive design - choosing the most compelling solutions
+   Lateral thinking
+   ## Storyboarding <a name = "chapter-2.2"></a>
+   Storyboarding every ideas you have including details of user's interaction with the design. Don't leave out any state in the sequence, even if it's jsut a transiion. Make sure to label and date the storyboard, STORY-SEQUENCE-DATE should be enough for this project.choose the stories that will deliver the most values and redraw a new one by focusing on all the positive aspects and mitigating all the negative aspects of the previous storyboards.
+   ## Sketching UI <a name = "chapter-2.3"></a>
+   Identify elements and sequence of user interface your user will require from the story frame. Using a template that apporximates the actual size of the device you're targeting, begin drawing the controls, labels, text, and media your user will ned to get value from your application.
+   The goals at this phase are
+   + Quickly explore if the screen can fit the elements the user will need
+   + Verify that he storyboards still make sense when the user interface is the only visual representation of the system
+   ## Information Architecture <a name = "chapter-2.4"></a>
+   This looks for method of organising the information system in a way which is supportive of the goals of the system's users.
+   ### Card sorting
+   It is important to understand the logic of your target user. One way to do this is by writing out a card for each major set of functions your application will perform and invite users from your target market to organise them in the most logical way. An example online tool [optimalworkshop.com](https://www.optimalworkshop.com/)
+   ### Site Map
+   Based on the user's way of organisation. it is a chart or a numbered list of the hierarchical groupings established by your card sort.
+   ### Navigation controls
+   Not all functions of the system need to be displayed at all times. Navigation controls allow your user to
+   1. Know where they are in the information system
+   2. Know what functions are available in the current location in the system
+   3. Know how to get to other parts of the system
+   ### System Design
+   Even though you’re not done designing the user interface, you can begin documenting the system from the user’s point of view. For each major task your system will do, create a list of functions, data inputs, and data displays which will be necessary to support that task. On multi-disciplinary teams, this collection of data i/o, sequences, and linkages between functional areas can save a lot of time and ensure a design is implemented thoroughly.
+  ## Layout/Composition <a name = "chapter-2.5"></a>
+  For inspiration to keep trying on the graphic design taking to heart [Ira Glass' advice](https://vimeo.com/85040589>
+  
+  One simplest layout moethod to work with on computer is a grid system. This is common in Swiss design. Breaking the grid is an advanced technique; if too many elements break the grid, the grid disappears.
+  
+  If you’re beginning, we recommend choosing a simple grid, certainly no more than 12 columns, and it will be easier to convey order with fewer columns. If you do place an object off of the 4 column grid, consider placing it within an 8 column or 12 column grid to preserve the communication of order.
+  
+  If your user is remote, you can look up the device size online. A fun and comprehensive list can be found [here](http://screensiz.es/).
+  
+  
+
   
   
     
