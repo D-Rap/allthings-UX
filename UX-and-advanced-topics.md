@@ -116,7 +116,7 @@ Interview is a useful way of gathering user inout but the data acquired is not a
    ### System Design
    Even though you’re not done designing the user interface, you can begin documenting the system from the user’s point of view. For each major task your system will do, create a list of functions, data inputs, and data displays which will be necessary to support that task. On multi-disciplinary teams, this collection of data i/o, sequences, and linkages between functional areas can save a lot of time and ensure a design is implemented thoroughly.
   ## Layout/Composition <a name = "chapter-2.5"></a>
-  For inspiration to keep trying on the graphic design taking to heart [Ira Glass' advice](https://vimeo.com/85040589>
+  For inspiration to keep trying on the graphic design taking to heart [Ira Glass' advice](https://vimeo.com/85040589)
   
   One simplest layout moethod to work with on computer is a grid system. This is common in Swiss design. Breaking the grid is an advanced technique; if too many elements break the grid, the grid disappears.
   
