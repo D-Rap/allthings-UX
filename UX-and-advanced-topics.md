@@ -123,11 +123,40 @@ Interview is a useful way of gathering user inout but the data acquired is not a
   If you’re beginning, we recommend choosing a simple grid, certainly no more than 12 columns, and it will be easier to convey order with fewer columns. If you do place an object off of the 4 column grid, consider placing it within an 8 column or 12 column grid to preserve the communication of order.
   
   If your user is remote, you can look up the device size online. A fun and comprehensive list can be found [here](http://screensiz.es/).
+ 
+ ## Graphc Design Foundations
+ ### Page Templates 
+ This will be helpful if the apllication will be used across different device.
+ 
+ ### Sample Application
+ This needs a start screen, map screen and text messaging screen.
+ 
+ ### Component templates
+Look in your UI sketches for collections of text and imagery which might form a unit which could be repeated throughout your application. From the illustrations above, the treatment of the avatar and name above the most recent message in the Skype application is a repeating component. The treatment of the ¼ page width tile on the XBOX page is another example of a repeating component. By defining the layout of specific components, you can save time later by describing pages as collections of components. This will speed up prototyping and eventual coding.
   
-  
+### Visual Hierarchy
+Information needs to be organized in such a way as to
++ Clearly indicate the way the information is organised
++ Draw the user’s attention to the most important information
 
+### Typography
+Typefaces convey more than the textual concepts referred to by the words. Selection of typefaces will have an impact on the message you’re communicating.
+
+### Type ramp
+Define a type ramp as a series of styles and stick with it. You may find later that you want to make one font larger or smaller; resist the urge. Users will infer meaning from the size and placement of type so ensure your type choices are all in support of conveying the information hierarchy. The type ramp should define a series of information functions and assign a type treatment to it. Information functions could include titles, headings, subheadings, links, captions, and body text. You’ll know what to include from your UI sketches.
+
+## Wireframing <a name = "chapter-2.6"></a>
+Wireframes are a good time to go digital with your design, but our goal in wireframing is to stay away from color and final visual finish. This allows us to focus on the information hierarchy and visual hierarchy as conveyed by layout grid and the type ramp. When we can get our application to convey accurate meaning at the wireframe level, then the visual finish phase can focus on conveying emotion without having confounding variables at the function and meaning level.
+
+Popular wireframing applications on Windows include Adobe Illustrator, Microsoft Visio, and Balsamiq. Popular wireframing tools on the Macintosh OS include Omnigraffle, Adobe Illustrator, Balsamiq, and Sketch. A popular cross platform tool would be HTML and CSS.
+
+There is some controversy about this; some current practitioners skip wireframing, arguing there simply isn’t time in the development cycle. Our counterargument to this is that it shouldn’t take much time, and the things you can learn from a wireframe will improve your final visual design. Take what you’ve learned from your UI sketching and iterate on it in a digital tool to come up with a wireframe.
   
+## Flow Charting <a name = "chapter-2.7"></a>
+Map out the sequence of how the user will interact with the application. You can be as detailed as you need to represent what the application needs to accomplish. We’d advise staying away from defining details of the technical implementation until your idea has benefitted from usability testing. The flow chart is useful in communicating the full extent of your design idea, since it shows all of the choices the user needs to be able to make in the application at a glance.
   
     
+## Prototyping <a name = "chapter-2.8"></a>
+The purpose of prototyping is to answer a question about an interaction pattern or layout issue. The prototype exists as a stimulus in an experiment that will answer a research question. Although you can make a pixel-perfect fully functional prototype, chances are the return on investment for this level of fidelity won’t be as high as if you were to focus your prototyping effort on specific interactions which you’re not certain users will understand. The fidelity of your prototype depends not only on your research question, but also on the test protocol. An unmoderated test often benefits from a more fully implemented prototype since a researcher won’t be on hand to explain any unimplemented features or bugs.
 
 
