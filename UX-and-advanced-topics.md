@@ -89,8 +89,8 @@ Interview is a useful way of gathering user inout but the data acquired is not a
   Include emotions in your description of the before and after state of your user base.
   
   
-  # Exploring Solutions <a name = "chapter-2"></a>
-    ## Brainstorming Techniques <a name = "chapter-2.2"></a>
+ # Exploring Solutions <a name = "chapter-2"></a>
+   ## Brainstorming Techniques <a name = "chapter-2.2"></a>
   
   
     
