@@ -11,5 +11,9 @@
 
 [awesome UI from Github](https://github.com/kevindeasis/awesome-ui)
 
+[LawsofUX](https://lawsofux.com/)
+
+[figma](https://www.figma.com/)
+
 ### Design Ideas
 [Dribble](https://dribbble.com/)
