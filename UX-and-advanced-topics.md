@@ -159,4 +159,10 @@ Map out the sequence of how the user will interact with the application. You can
 ## Prototyping <a name = "chapter-2.8"></a>
 The purpose of prototyping is to answer a question about an interaction pattern or layout issue. The prototype exists as a stimulus in an experiment that will answer a research question. Although you can make a pixel-perfect fully functional prototype, chances are the return on investment for this level of fidelity won’t be as high as if you were to focus your prototyping effort on specific interactions which you’re not certain users will understand. The fidelity of your prototype depends not only on your research question, but also on the test protocol. An unmoderated test often benefits from a more fully implemented prototype since a researcher won’t be on hand to explain any unimplemented features or bugs.
 
+# Calibrating the Design <a name = "chapter-3"></a>
+## User testing protocols <a name = "chapter-3.1"></a>
+This phase of the design is to answer any questions you have about an application's functionality or effect on user behaviour or attitude. The protocols needed depend on the nature of the questions. *Make sure you have participant's consent before any recording.*
+
+## Collaborative Design <a name = "chapter-3.2"></a>
+
 
