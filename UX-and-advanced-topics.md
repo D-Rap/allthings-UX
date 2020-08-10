@@ -24,16 +24,13 @@
 
 [Module 3 - Calibrating the design](#chapter-3)
 * [User testing protocols](#chapter-3.1)
-* [Collaborative design](#chapter-3.2)
-* [Focus groups](#chapter-3.3)
-* [Assessing the data you’ve collected](#chapter-3.4)
-* [Issues matrix](#chapter-3.5)
-* [Synthesizing important changes to the design](#chapter-3.6)
-* [Update wireframes and prototypes](#chapter-3.7)
+* [Assessing the data you’ve collected](#chapter-3.2)
+* [Issues matrix](#chapter-3.3)
+* [Update wireframes and prototypes](#chapter-3.4)
 
 [Module 4 - Finishing the design](#chapter-4)
 * [Branding](#chapter-4.1)
-* [Color](#chapter-4.2)
+* [Colour](#chapter-4.2)
 * [Images](#chapter-4.3)
 * [Motion](#chapter-4.4)
 * [Copy](#chapter-4.5)
@@ -163,6 +160,57 @@ The purpose of prototyping is to answer a question about an interaction pattern 
 ## User testing protocols <a name = "chapter-3.1"></a>
 This phase of the design is to answer any questions you have about an application's functionality or effect on user behaviour or attitude. The protocols needed depend on the nature of the questions. *Make sure you have participant's consent before any recording.*
 
-## Collaborative Design <a name = "chapter-3.2"></a>
+## Assessing the data you’ve collected <a name = "chapter-3.2"></a>
+Recording detailed notes with partipicant ID nad sequence number. If number of participants is large, you can look for a pattern.
 
+## Issues matrix <a name = "chapter-3.3"></a>
+A matrix that is useful in assessing data collected. It is done by listing the problems user encounter along one dimension and users who encountered them on another one. Tis help pointing out outliers and unique participants for further research.
 
+## Update wireframes and prototypes <a name = "chapter-3.4"></a>
+As you uncover issues which are likely to be barriers to user success with your application, you must re-enter a design phase to design a solution to the problems. Make sure to preserve what was working about the application, which is why it is important in your research rounds to note what is working. As you advance through the design phase, the types of changes you can incorporate without destabilizing the success of the earlier iterations of the design. Plan to continue testing each iteration to ensure that your changes are making progress towards upholding your goals instead of regressing from your goals. Update your prototypes while increasing the fidelity of the design. It is important for the design team to recognize how the scope of potential changes to the application must diminish to preserve the successes of earlier iterations. The time for wild changes to the application concept is most convenient at the very beginning of the process. Iteration over iteration, the amplitude of change which can be successfully incorporated without jeopardizing earlier success must diminish. 
+
+# Finishing the Design <a name = "chapter-4"></a>
+  ## Branding <a name = "chapter-4.1"></a>
+  In a digital application, brand is communicated in color, sound, editorial tone, motion, and the reliability of the functionality provided. In modern application distribution points, brand is also strongly influenced by user reviews of the application.
+  
+  To have a credible brand, the attributes you aspire to should emerge from a profound sense of why you’re doing the work at all. We admire Simon Sinek’s work in the area of establishing credible brand propositions by starting with why. Ask why the work is important, then ask why that answer is important, then do it three more times. This method of asking “why is this important” five times can help you get to an enduring central truth about your motivation. Arising from that central motivation, you can develop an enduring brand.
+  
+  ### Mood Boards
+  Mood boards can be used as stimuli in focus groups to understand if the aspirational adjectives of the brand are what participants use to describe the imagery. We recommend reading Joey Benedeck and Trish Miner’s paper on the Desirability Toolkit as a useful method of assessing alignment with brand aspirational qualities. High quality design efforts will create several of these mood boards to find the imagery which best communicates a set of brand attributes.
+  
+  ## Colour <a name = "chapter-4.2"></a>
+  The colour palette is developed after an effective mood board is reached. The more colors you have in your palette, the harder it will be to establish a sense of cohesiveness in the design. An important consideration for color selection is accessibility. Not everybody has the same visual capabilities. Many potential users of your application will not be capable of differentiating between two colors with similar luminosity. There are several excellent online tools which can measure the difference in contrast (luminosity) between two colors. The Worldwide Web Content Accessibility Group maintains recommendations. The 2.0 standard for contrast between foreground text and background is 4.5:1 for fonts smaller than 18pts.
+  
+  ## Images <a name = "chapter-4.3"></a>
+  Not all applications present imagery, but the choice of photography, illustrations, and iconography will either uphold or degrade a brand. Using a consistent point of view when selecting and composing imagery will go a long way towards upholding a brand.
+  
+  Color or black and white? What are the common attributes of the subjects of the photos? What are the common compositional traits? What are the common aspect ratios of the photo collection? Are there common filters or focusing techniques applied? Are the photos framed with any type of matte treatment? What is the white space surrounding the photos? Don’t leave any of these attributes of the photos to chance. Find a global brand you are aware of online. Notice what commonalities their photography has. If you choose photography to be presented by your application, pay attention to all these questions and make certain your answers are intentional and consistent with your brand aspiration.
+  
+  ### Illustration
+  Icons can help frequent users of an application rapidly identify a function. In order to have your users accept your icons, it is important that they are of a consistent style and also in support of the color palette. If your icons don’t utilize similar visual conventions, including line weight, line style, presence or absence of lighting, and color, then your users will have lower trust in the quality of your application.
+  
+  Do the angles seem related? Do the line widths seem intentional? Do the icons function well at scale in the application? Are users more effective when the icons are in the application? Do they support a brand color palette? Ask these questions of your own designs and see if you can improve them.
+  
+  ## Motion <a name = "chapter-4.4"></a>
+  Humans will attribute an emotion to the motion. Is the motion soothing? Is it playful? Is it aggressive? Is it a drain on user focus?
+  
+  Motion in micro-interactions can convey a sense of the application’s brand. Motion can also play a part in information hierarchy. If a user drilling down into a subcategory sees information sliding in from the right, choosing to the slide the information back to the right when they navigate to the parent node in the hierarchy will reinforce the sense of special memory.
+
+Motion can enhance a user’s understanding of how your application stores information, particularly with full screen transitions. If you use Windows, note the motion initiated when you click on the Windows Start menu. Notice how the layout moves into place quickly then slowly. If you use a Mac computer, notice the motion when you choose “Get Info” on any file or folder in the Finder. Notice how the motion is reversed when you close the info panel, drawing the user’s attention back towards the object which spawned the window in the first place.
+
+Judicious use of motion can enhance the brand impression of your application. Too much animation might make your users feel uncomfortable. If you’re designing a system for users who will be using the application repeatedly, ensure that the motion doesn’t slow them down.
+
+  ## Copy <a name = "chapter-4.5"></a>
+  As mentioned earlier, the words you use in your application (the copy) can either support or suppress your brand impression. Be deliberate in how you phrase error messages, warnings, alerts, and explanatory text. The editorial tone of the copy should align with the brand of your application. Also consider how the tone might be interpreted by the user; a playful or flippant tone might be interpreted as insensitivity if it is used to convey a message about an unrecoverable destruction of user data. If you’re coding an application for multiple languages, there is no substitute for engaging the services of a native speaker who can ensure that the brand proposition is properly supported in their language. Many products offer multiple language support through machine translation, but for that to be successful it is important that the source language be relatively free of colloquialisms and idiosyncrasies; the very aspects of language that do the most in conveying tone. Copy which is written for machine translation will be perceived as stiff and staid. If those are not amongst your aspirational brand attributes, then that’s a tradeoff you should be aware of.
+
+Error messages should always describe what the user can do to recover from the error condition. Without that, users are likely to become frustrated with your application.
+
+  ## Whitespace/content balance/clarity <a name = "chapter-4.6"></a>
+  The greater density of information in your layout, the more likely your user’s first reaction will be to complexity. High density information displays are more complicated to make sense out of. In light use consumer applications, you might not be able to get away with any less than 50% white space. In resident applications, a term coined by Alan Cooper for applications which the user will be using for hours every workday, the tradeoff of whitespace for increased productivity may be worth it. In general expert users have a far greater tolerance for complexity and information density, because they have already spent hours and hours with the application to build that expertise. Whether or not you design for a beginner or an expert or somewhere in between should be central and primary deliverable of your user research phase. Beginners in general will have low to no tolerance for complexity, either conceptually or visually.
+  
+  Whitespace can be a powerful compositional element. Even if you’re not aware of it, it can be informing your pre-cognitive impression of order or disorder. Leading (line-height in css) can greatly affect the readability of blocks of text. Greater leading will allow more white space to come through the pixels. Generous margins can help people feel less cramped when perceiving your layout. Generous amounts of whitespace also is common among luxury brands, perhaps because the generosity of space is assumed to be coming from a publisher with abundance. They don’t need to cram a bunch of information onto the layout.
+  
+  Keep in mind that every time you add a bounding box or horizontal rules or colored background, you’re paying for it with whitespace. Try a variant of the design which uses whitespace alone to group content and communicate order, then see if it is more effective at supporting the brand aspiration and the communication goals of the application than the layout boxes and lines.
+  
+  
+  
