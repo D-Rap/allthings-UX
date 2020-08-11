@@ -17,6 +17,19 @@
 
 [material.io](https://material.io/design/introduction)
 
+### LYNDA Learning Path
+[Become a User Experience Designer](https://www.linkedin.com/learning/paths/become-a-user-experience-designer?u=43607124)
+
+[Advance Your Skills in UX Design](https://www.linkedin.com/learning/paths/advance-your-skills-in-ux-design?u=43607124)
+
+[Improve Your UX Design Skills](https://www.linkedin.com/learning/paths/improve-your-ux-design-skills?u=43607124)
+
+[Improve Your UX Prototyping Skills](https://www.linkedin.com/learning/paths/improve-your-ux-prototyping-skills?u=43607124)
+
+[Advance Your Skills as a User Experience Researcher](https://www.linkedin.com/learning/paths/advance-your-skills-as-a-user-experience-researcher?u=43607124)
+
+[Become a Front-End Web Developer](https://www.linkedin.com/learning/paths/become-a-front-end-web-developer?u=43607124)
+
 ### Design Ideas
 [Dribble](https://dribbble.com/)
 
