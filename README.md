@@ -18,3 +18,6 @@
 
 ### Design Ideas
 [Dribble](https://dribbble.com/)
+
+## Reading List
+Don Norman - The Design of Everyday Things
