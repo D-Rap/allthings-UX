@@ -36,6 +36,14 @@
 [Dribble](https://dribbble.com/)
 
 ## Reading List
+Austin Kleon - Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+
 Jake Knapp - Sprint
+
 Steve Krug - Don't Make Me Think
+
 Don Norman - The Design of Everyday Things
+
+Susan Weinschenk - 100 MORE Things Every Designer Needs to Know About People
+
+
