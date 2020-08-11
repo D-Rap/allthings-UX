@@ -36,7 +36,10 @@
 * [Copy](#chapter-4.5)
 * [Whitespace/content balance/clarity](#chapter-4.6)
 * [Visual Hierarchy and how the eye accepts information](#chapter-4.7)
-* [UI Design Trends and Best Practices](#chapter-4.8)
+* [Common “visual affordances”](#chapter-4.8)
+* [UI Design Trends and Best Practices](#chapter-4.9)
+* [Validating the finished design] (#chapter-4.10)
+* [Documenting the finished design] (#chapter-4.11)
 
 ## Objectives
 1. Understand the pros and cons of user-centered design
@@ -52,25 +55,25 @@
 
 # Understanding User Needs <a name = "chapter-1"></a>
 ## Interviews <a name = "chapter-1.1"></a>
-Interview is a useful way of gathering user inout but the data acquired is not as significant as those from the observation sessions because 1. the questions asked in the interview are biased by the assuptions of the quiestioner and 2. the answers are based on the recall of the participants and this is not accurate. It is useful for documenting participants/ beliefs.
+  Interview is a useful way of gathering user inout but the data acquired is not as significant as those from the observation sessions because 1. the questions asked in the interview are biased by the assuptions of the quiestioner and 2. the answers are based on the recall of the participants and this is not accurate. It is useful for documenting participants/ beliefs.
 
 ## Organising Data <a name = "chapter-1.2"><'a>
   ### Affinity Diagrams 
-    Good for structuring unstructured data collected and spot a pattern.
+  Good for structuring unstructured data collected and spot a pattern.
   ### Word clouds 
-    USe the word cloud generator to see a pattern.
+  Use the word cloud generator to see a pattern.
   ### Task Modelling
-    Model user's journey along the way and look out for loops and breakdowns to identify ways of making a process more efficient. Customer Journey Maps are commonly used as a way to outline user's initial intent through acieving that intent. This method focuses more on the communication between the company and their users.
+  Model user's journey along the way and look out for loops and breakdowns to identify ways of making a process more efficient. Customer Journey Maps are commonly used as a way to outline user's initial intent through acieving that intent. This method focuses more on the communication between the company and their users.
   ### Personas or Market Segments
-      Isolate different observations into cluster and give each clister a personas can help the team focus on coding for a specific group of users instead of making something for everybody.
-      Market segments can identify the size and fitness of a specific market target. This is provable unlike personas. This, however, does not tell you about user's behaviours or beliefs.
-      * Do NOT make something for everybody. Save the segments of other possible porsonas to make a subsequent product for*
+  Isolate different observations into cluster and give each clister a personas can help the team focus on coding for a specific group of users instead of making something for everybody.
+  Market segments can identify the size and fitness of a specific market target. This is provable unlike personas. This, however, does not tell you about user's behaviours or beliefs.
+  * Do NOT make something for everybody. Save the segments of other possible porsonas to make a subsequent product for*
                                               
 ## Metrics/Telemetry <a name = "chapter-1.3"></a>
-    If you are creating a replacement for an existing application or service, analyse the data about user's interactions for any potential bottlenecks or surprising abandonment. This can be done with the help of Sankey Diagrams.
+   If you are creating a replacement for an existing application or service, analyse the data about user's interactions for any potential bottlenecks or surprising abandonment. This can be done with the help of Sankey Diagrams.
     
 ## Other Inputs <a name = "chapter-1.4"></a>
-    If the product being design is a replacement or an upgrade of an existing product, collect data on that product; interview its users to see what they love and hate about the experience of using it. Ask them what they wish it did but it doesn’t. You can also evaluate those competing products yourself, and form a matrix of functionality to compare what those future competitors offer.
+   If the product being design is a replacement or an upgrade of an existing product, collect data on that product; interview its users to see what they love and hate about the experience of using it. Ask them what they wish it did but it doesn’t. You can also evaluate those competing products yourself, and form a matrix of functionality to compare what those future competitors offer.
 ## BXT model and alternatives <a name = "chapter-1.5"></a>
   Once the experience of users was looked at, now it's time to take a look at the business side of it. Is there a viable market? Is there a business model that will allow your company to take a share of this market? Finally, is the technology up to the task of delivering the user experience and business model? Business (B), experience (X), and technology (T) are all essential for a commercial product.
   
@@ -211,6 +214,42 @@ Error messages should always describe what the user can do to recover from the e
   Whitespace can be a powerful compositional element. Even if you’re not aware of it, it can be informing your pre-cognitive impression of order or disorder. Leading (line-height in css) can greatly affect the readability of blocks of text. Greater leading will allow more white space to come through the pixels. Generous margins can help people feel less cramped when perceiving your layout. Generous amounts of whitespace also is common among luxury brands, perhaps because the generosity of space is assumed to be coming from a publisher with abundance. They don’t need to cram a bunch of information onto the layout.
   
   Keep in mind that every time you add a bounding box or horizontal rules or colored background, you’re paying for it with whitespace. Try a variant of the design which uses whitespace alone to group content and communicate order, then see if it is more effective at supporting the brand aspiration and the communication goals of the application than the layout boxes and lines.
+  
+  ## Visual Hierarchy and how the eye accepts information  <a name = "chapter-4.7"></a>
+  Our sense of visual hierarchy is most likely informed by our first written language. The reading order of the language, be it left to right, right to left, or top to bottom, will inform our way of making sense of information. The letter forms or script we first learned most likely inform our preferred method of effective communication. Our life experiences reading, and conventions we’ve learned from books, magazines, and newspapers will all inform our expectations for order in design
+  
+  What is the purpose of the designed screen? What is the main point of the design? If the design includes additional information, how does it relate to the main point? What is the core message you want users to take away? What is the main call to action you want your users to take? A good design will communicate all of this within half a second by relying on the grouping of information formed by whitespace, layout grid, and typography. Users will scan for all of these clues over the entire layout before even reading a single word.
+  
+  Iterate on the design until you’re certain that users will infer the right idea about the organization of the information before they read anything.
+  
+  ## Common “visual affordances”  <a name = "chapter-4.8"></a>
+  Definition - an “affordance” affords a user of a design some value.
+  
+  If you have a choice between an existing pattern and a new pattern that is just as good as an existing pattern, choose the existing pattern. The only reason to use a new pattern is if it performs much better than the existing pattern. To paraphrase one of the design principles for Windows 8, “change is bad, unless it’s great”.
+  
+  ## UI Design Trends and Best Practices <a name = "chapter-4.9"></a>
+  UI design trends tend to come and go, like fashion. Just like fashion, people will expect that you’re aware of these trends. What isn’t changing is the conversation between the design and the user.
+  
+  Early success with these real-world metaphors led to a design philosophy of emulating the physical world for metaphors in computing. If a container could be rendered as a folder, we could render a collection of reading material as a bookshelf. If an audio experience was based on cassette or reel-to-reel tape, then mimicking the play, pause, and fast forward buttons might make working with a digital music player easier to understand. This trend of emulating the physical world is called skeumorphism, and it was the dominant trend in GUI design for computers for years.
+  
+  ## Validating the finished design <a name = "chapter-4.10"></a>
+  When you’ve completed applying the visual finish to the design, it is important to go back to your users again and verify if the design still accomplishes the goals you set out to achieve. You’re validating that the choices you made in the final visual finish stage didn’t have a negative effect on user performance. This is your last sanity check before investing in real code, so don’t skip it only to discover a more expensive problem later.
+  
+  ## Documenting the finished design <a name = "chapter-4.11"></a>
+  If you’re co-located with your engineering team, and your prototype is high fidelity, the design can be explained in a presentation. Make sure all engineers coding the interface can attend and cover every interaction leaving room for questions. Ideally, they would have seen your design as it was evolving to ensure you don’t design something truly impossible.
+  
+  If your team is not located with you, or if they can’t meet, then you’re going to need to document the design. Your engineers will need to know precisely what each measurement, color, typeface, and interaction will be so that they can create performant, secure, scalable code out of it. There are several tools on the market today that can help with this, including InVision and Zepplin.io, and there are probably great new competitors every week. If you can’t use one of these tools, then Sketch is a popular user experience design tool which offers plug-ins which can help with automating at least a portion of the measurement documentation. If you can’t use Sketch, Adobe Illustrator can produce beautiful design documentation. Anything that isn’t documented, including interactions, is unlikely to get built. Even with great documentation, it is important to lead your engineering team through an end-to-end walkthrough of the design, which can be accomplished in a slide deck or a video.
+  
+  ### Testing the design throughout development
+  As the application you’ve designed is built, it is important to monitor the progress to ensure fidelity to the original design. Often there are confounding obstacles during engineering that might force your team to alter the implementation of the design. If you don’t track the progress, you might never know about these alterations. Make sure that the build is regularly tested with users, using the same testing protocol as you used for your final design stage usability test. If you find changes to the design which prohibit the users from accomplishing their goal, or diminish the application’s effectiveness in anyway, bring them to the design team immediately to report the data and collaborate to find a feasible fix.
+  
+  ### Collecting and analyzing telemetry on the released design
+  Plan to track what your users are doing with your released application. This will give you some insights into which functions are in highest demand, and may uncover workflows which seem to be diminishing user success. Look for indication of interaction loops. If users are interacting between multiple screens in what seems to be a loop, look into those screens to understand what might be confusing users. If necessary plan for a moderated usability study to uncover issues with these screens you hadn’t seen before releasing. Look for pogo-stick patterns, wherein a user jumps down a level in the information architecture and then goes back up again. This might suggest the labels for the next layer of the information are confusing. Binary applications have complete control over what gets logged. Tools like Adobe Experience Manager can help applications collect and analyze usage patterns from large pools of data.
+  
+  The key is knowing that your release date is just the beginning. Your goal is impacting user’s lives, and you won’t know that until you can detect the usage patterns. It can be tempting to want to track every little thing, but unless you’re willing to make a significant investment in coding a reporting system, or a sizable investment in altering the way your application stores logging information so that it might be possible to port it into an analytics reporting tool, then it might be best to start small. Track a few things that your team believes are critical to success and make sure you can report on them. If you have further questions about user behavior which your current stats don’t tell you, then add logging in over time. Telemetric data which isn’t used is a waste of engineering time and electricity; don’t track things you don’t use, and make sure you act on the data you’ve collected to drive improvements in user success.
+  
+  
+  
   
   
   
