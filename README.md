@@ -17,6 +17,8 @@
 
 [material.io](https://material.io/design/introduction)
 
+[Learn UI Design](https://learnui.design/blog/)
+
 ### LYNDA Learning Path
 [Become a User Experience Designer](https://www.linkedin.com/learning/paths/become-a-user-experience-designer?u=43607124)
 
