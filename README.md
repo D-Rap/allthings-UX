@@ -20,4 +20,6 @@
 [Dribble](https://dribbble.com/)
 
 ## Reading List
+Jake Knapp - Sprint
+Steve Krug - Don't Make Me Think
 Don Norman - The Design of Everyday Things
